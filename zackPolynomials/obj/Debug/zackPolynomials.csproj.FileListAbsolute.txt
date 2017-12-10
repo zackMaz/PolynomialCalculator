@@ -1,0 +1,6 @@
+c:\users\visitordl10\documents\visual studio 2015\Projects\zackPolynomials\zackPolynomials\bin\Debug\zackPolynomials.exe.config
+c:\users\visitordl10\documents\visual studio 2015\Projects\zackPolynomials\zackPolynomials\obj\Debug\zackPolynomials.csprojResolveAssemblyReference.cache
+c:\users\visitordl10\documents\visual studio 2015\Projects\zackPolynomials\zackPolynomials\bin\Debug\zackPolynomials.exe
+c:\users\visitordl10\documents\visual studio 2015\Projects\zackPolynomials\zackPolynomials\bin\Debug\zackPolynomials.pdb
+c:\users\visitordl10\documents\visual studio 2015\Projects\zackPolynomials\zackPolynomials\obj\Debug\zackPolynomials.exe
+c:\users\visitordl10\documents\visual studio 2015\Projects\zackPolynomials\zackPolynomials\obj\Debug\zackPolynomials.pdb
