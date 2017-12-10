@@ -11,6 +11,7 @@ namespace zackPolynomials
         static void Main(string[] args)
         {
             Console.WriteLine("Enter a polynomial. No spaces.");
+            Console.WriteLine("for the commit");
             string polynomial = Console.ReadLine();
         }
 

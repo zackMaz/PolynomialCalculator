@@ -4,3 +4,6 @@ c:\users\visitordl10\documents\visual studio 2015\Projects\zackPolynomials\zackP
 c:\users\visitordl10\documents\visual studio 2015\Projects\zackPolynomials\zackPolynomials\bin\Debug\zackPolynomials.pdb
 c:\users\visitordl10\documents\visual studio 2015\Projects\zackPolynomials\zackPolynomials\obj\Debug\zackPolynomials.exe
 c:\users\visitordl10\documents\visual studio 2015\Projects\zackPolynomials\zackPolynomials\obj\Debug\zackPolynomials.pdb
+C:\Users\VisitorDL10\Desktop\zackPolynomials\zackPolynomials\bin\Debug\zackPolynomials.exe.config
+C:\Users\VisitorDL10\Desktop\zackPolynomials\zackPolynomials\obj\Debug\zackPolynomials.exe
+C:\Users\VisitorDL10\Desktop\zackPolynomials\zackPolynomials\obj\Debug\zackPolynomials.pdb
